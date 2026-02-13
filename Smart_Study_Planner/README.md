@@ -11,4 +11,4 @@ and constraint satisfaction.
 
 ## How to Run
 ```bash
-python study_planner.py
+python study_planner.ipynb
